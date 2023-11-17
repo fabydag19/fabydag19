@@ -1,6 +1,6 @@
 # 👨‍💻 Fabio
 
-**' IT Operation Engineer (Automation, Data Analytics, Network) '**
+**`IT Operation Engineer (Automation/Data Analytics/Network)`**
 
 I am a Computer Engineer with experience in IT and Telecommunications. I like innovation and I am always looking for new challenges because they allow me to acquire new skills and reach new goals. For me it is important to face every situation with stubbornness and determination.
 
