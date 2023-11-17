@@ -28,6 +28,6 @@ I am a Computer Engineer with experience in IT and Telecommunications. I like in
 
 ### 📊 Stats
 
-![fabydag19's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabydag19&show_icons=true&theme=vue)
+![fabydag19's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabydag19&show_icons=true&hide=contribs,prs&theme=github_dark)
 
 #
